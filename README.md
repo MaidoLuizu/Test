@@ -1,2 +1,2 @@
 # Test
-Repositório de teste
+Repositório de teste para trabalho conjunto de Mapas de Osu!
